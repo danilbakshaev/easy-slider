@@ -19,6 +19,7 @@
 .slider-track {
   display: flex;
   background-color: rgba(255, 0, 0, 0.411);
+  transition: .2s;
 }
 .slider-item {
   height: 100px;
